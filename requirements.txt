@@ -10,7 +10,7 @@ python-dotenv
 tiktoken
 openai
 langchainhub
-langchain
+langchain --upgrade
 python-docx
 nltk
 unstructured
